@@ -42,3 +42,4 @@ Evidências obrigatórias
 •	Grafos do histórico antes da primeira integração, durante o conflito e após a integração final.
 •	Trecho do conflito original e conteúdo resolvido, com justificativa para a preservação das duas linhas.
 •	Comparação das três estratégias de integração e desenho previsto para a estratégia escolhida. 
+•	Todas as entregas devem ser feitas em arquivos de texto no formato markdown, com o padrão usado no Github.
